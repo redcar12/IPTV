@@ -1,3 +1,5 @@
 EXTM3U
-#EXTINF:-1,UK : Nickelodeon UK
+#EXTINF:-1,Nickelodeon
 http://mags.vip:2086/live/miriam/miriam123/91784.ts?checkedby:hlscat.com
+#EXTINF:-1,NickToons
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/62134?checkedby:hlscat.com
