@@ -1,7 +1,7 @@
 EXTM3U
 #EXTINF:-1,Nickelodeon
 http://mags.vip:2086/live/miriam/miriam123/91784.ts?checkedby:hlscat.com
-#EXTINF:-1,NickToons
+#EXTINF:-1,NickToons FHD
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/62134?checkedby:hlscat.com
 #EXTINF:-1,Channel 5 FHD
 http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/6632?checkedby:hlscat.com
@@ -39,3 +39,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
 #EXTINF:-1,BBC One Scotland FHD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
+#EXTINF:-1,CBBC FHD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
