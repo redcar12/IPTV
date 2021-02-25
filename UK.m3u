@@ -31,3 +31,11 @@ http://mags.vip:2086/live/jav/jav123/100022.ts?checkedby:hlscat.com
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/48087?checkedby:hlscat.com
 #EXTINF:-1,Pick
 http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4233
+#EXTINF:-1,BBC One FHD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1,BBC One Nothern Ireland HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8
+#EXTINF:-1,BBC One London FHD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
+#EXTINF:-1,BBC One Scotland FHD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
