@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Nick (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:-1, Nick
+#EXTINF:-1,Nick
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51206?checkedby:hlscat.com
