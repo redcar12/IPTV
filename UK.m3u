@@ -39,4 +39,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
 #EXTINF:-1,CBBC FHD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u
-#EXTING:-1,Nick HD
+#EXTINF:-1,Nick HD
+http://infinite.dnsabr.com:8080/kim/kim/1054?checkedby:hlscat.com
