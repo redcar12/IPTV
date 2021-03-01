@@ -1,5 +1,5 @@
 EXTM3U
-#EXTINF:-1,Nick
+#EXTINF:-1,Nick SD
 http://ip.tvfhd.vip:8888/Burhankabak123/t4gMnHz3/1503?checkedby:hlscat.com
 #EXTINF:-1,NickToons
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2048?checkedby:hlscat.com
@@ -25,7 +25,7 @@ http://infinite.dnsabr.com:8080/kim/kim/1051?checkedby:hlscat.com
 http://media-kings.xyz:8080/tek1/tek1/103?checkedby:hlscat.com
 #EXTINF:-1,Tiny POP
 http://mags.vip:2086/live/jav/jav123/100022.ts?checkedby:hlscat.com
-#EXTINF:-1,Nickelodeon (ALT)
+#EXTINF:-1,Nickelodeon SD (ALT)
 http://infinite.dnsabr.com:8080/kim/kim/1054?checkedby:hlscat.com
 #EXTINF:-1,Pick
 http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/4233
@@ -38,11 +38,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 #EXTINF:-1,BBC One Scotland FHD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
 #EXTINF:-1,CBBC FHD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1,Nick Jr.
-#EXTINF:-1,Nick Jr. Too
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2049?checkedby:hlscat.com
-#EXTINF:-1, Nick FHD
-http://ip.tvfhd.vip:8888/Burhankabak123/t4gMnHz3/1503?checkedby:hlscat.com
-#EXTINF:-1, CARTOON NETWORK
-http://infinite.dnsabr.com:8080/kim/kim/1062?checkedby:hlscat.com
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u
+#EXTING:-1,Nick HD
