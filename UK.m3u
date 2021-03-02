@@ -41,3 +41,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u
 #EXTINF:-1,Nick HD
 http://infinite.dnsabr.com:8080/kim/kim/1054?checkedby:hlscat.com
+#EXTINF:-1,NickToons ALT
+http://infinite.dnsabr.com:8080/kim/kim/1052?checkedby:hlscat.com
