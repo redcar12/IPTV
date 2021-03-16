@@ -40,6 +40,6 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:-1,CBBC FHD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u
 #EXTINF:-1,Nick HD
-http://infinite.dnsabr.com:8080/kim/kim/1054?checkedby:hlscat.com
+https://cdn-nl2.streamlive.to/vlc/jcx507sdtses9qb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDIxIDc6Mjc6MjUgUE0maGFzaF92YWx1ZT1udHVPdXFDN1ZBM3lOMitPNk1KNnZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD01NTMwMThfOTQ2
 #EXTINF:-1,NickToons ALT
 http://infinite.dnsabr.com:8080/kim/kim/1052?checkedby:hlscat.com
